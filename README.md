@@ -28,8 +28,8 @@ The project simulates a real-world business intelligence scenario and showcases 
 - Exported the dashboard as a clean, professional PDF ready for presentation.
 
 ## Dashboard
-href=https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024>**Dashboard**
-The dashboard layout ensures easy readability and modern visuals.
+- <a href=https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024>**Dashboard**</a>
+- The dashboard layout ensures easy readability and modern visuals.
 
 ## Project Insights
 - **DDoS attacks** caused the highest financial losses across several industries.
