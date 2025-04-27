@@ -28,7 +28,7 @@ The project simulates a real-world business intelligence scenario and showcases 
 - Exported the dashboard as a clean, professional PDF ready for presentation.
 
 ## Dashboard
-- <a href=https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024>**Dashboard**</a>
+- <a href=https://github.com/m-czarnecki/Cybersecurity-Threat-Analysis-Dashboard/blob/4375b7940e64702950c74b31381251139d1fb007/Dashboard_Global_Cybersecurity_Threats_2015-2024.pdf>**Dashboard**</a>
 - The dashboard layout ensures easy readability and modern visuals.
 
 ## Project Insights
