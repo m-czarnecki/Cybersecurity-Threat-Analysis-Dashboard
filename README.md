@@ -54,4 +54,7 @@ The dashboard visualization allows for an intuitive exploration of these trends,
 - Data Visualization
 - Dashboard Building
 
+## License
+
+This repository is for academic and portfolio purposes only.
 ---
