@@ -56,5 +56,5 @@ The dashboard visualization allows for an intuitive exploration of these trends,
 
 ## License
 
-This repository is for academic and portfolio purposes only.
+- This repository is for academic and portfolio purposes only.
 ---
